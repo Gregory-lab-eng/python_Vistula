@@ -49,7 +49,7 @@ który potrafi odpowiadać na pytania dotyczące obrazu.
 
 Model otrzymuje:
 obraz,
-pytanie: "Is it a person with a face?"
+pytanie: "Does the image contain a person with a clearly visible face?"
 i generuje odpowiedź:
 
 "yes" → twarz wykryta
